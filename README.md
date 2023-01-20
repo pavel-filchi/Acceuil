@@ -1,5 +1,4 @@
-[![MasterHead](![image](https://user-images.githubusercontent.com/118671325/213596836-c96c7111-635b-4e51-8382-fd974add749a.png)
-)
+
 <h1 align="center">Hi 👋, I'm Pavel</h1>
 <h3 align="center">A passionate frontend developer from Belgium</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/FluffyBogusFox-size_restricted.gif">
