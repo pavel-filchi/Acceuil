@@ -12,7 +12,7 @@
 
 <br/>  
 
-# 💻 Tech Stack:
+# 💻 Skills:
 <div align="center">  
 <table><tr><td valign="top" width="33%">
   
