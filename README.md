@@ -15,6 +15,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavel-filchi&" alt="pavel-filchi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavel-filchi&" alt="pavel-filchi" /><
 
 
