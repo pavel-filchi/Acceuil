@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pavel</h1>
-<h3 align="center">A passionate frontend developer from Belgium</h3>
+<h3 align="center">A russian student living in Belgium</h3>
 <img align="center" alt="Coding" width="1100" height="500" src="https://theawesomer.com/photos/2015/09/animations_by_kirokaze_1.gif">
 
 <h3 align="left">Connect with me:</h3>
