@@ -8,7 +8,7 @@
 ### <div>🔭 I’m currently working on different projects </div>  
 
 
-### <div>🌱 I’m currently learning C++ on [Unity](https://unity.com)</div> 
+### <div>🌱 I’m currently learning C# on [Unity](https://unity.com)</div> 
 
 <br/>  
 
