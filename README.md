@@ -11,7 +11,15 @@
 ### <div>🌱 I’m currently learning C# on [Unity](https://unity.com)</div> 
 
 <br/>  
-
+# Social Media :
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=@senntry&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=pavelfilchi@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://codepen.io/pavel_filchi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  </a>
+</div>
+<br/>  
 # 💻 Skills:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -53,13 +61,5 @@
 </div>
 
 
-<br/>  
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=@senntry&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=pavelfilchi@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://codepen.io/pavel_filchi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  </a>
-</div>
 
 
