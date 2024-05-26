@@ -5,7 +5,7 @@
 ### <div> 🖐🏻I'm Pavel, a russian computer science student 💻 </div>  
  
 
-### <div>🔭 I’m currently working on different projects </div>  
+### <div>🔭 Follow me on [CodePen !](https://codepen.io/pavel_filchi) </div>  
 
 
 ### <div>🌱 I’m currently learning C# on [Unity](https://unity.com)</div> 
