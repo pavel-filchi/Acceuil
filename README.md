@@ -78,7 +78,7 @@
 # 👀 Profile views :
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pavel-filchi.pavel-filchi&left_color=darkgreen&right_color=chocolate"  />
+  <img src="https://profile-counter.glitch.me/pavel-filchi/count.svg?"  />
 </div>
 
 ###
