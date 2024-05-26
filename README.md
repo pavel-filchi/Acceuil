@@ -20,8 +20,11 @@
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
 </div>
+
 ###
+
 <br/>  
+
 # 💻 Skills:
 
 <div align="left">
@@ -55,7 +58,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
 </div>
+
 ###
+
 <br/>  
 
 # 📈 Github Stats  
