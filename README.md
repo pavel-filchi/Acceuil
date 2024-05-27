@@ -3,7 +3,7 @@
 </div>  
 
 ### <div> 🖐🏻I'm Pavel, a Computer Science student with a passion for design and front-end development.
-I excel at creating visually appealing and user-friendly interfaces. </div>  
+### I excel at creating visually appealing and user-friendly interfaces. </div>  
  
 
 ### <div>🔭 Follow me on [CodePen !](https://codepen.io/pavel_filchi) </div>  
