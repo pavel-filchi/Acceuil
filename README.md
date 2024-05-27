@@ -6,7 +6,7 @@
 ### I excel at creating visually appealing and user-friendly interfaces. </div>  
  
 
-### <div>🔭 Follow me on [CodePen !](https://codepen.io/pavel_filchi) </div>  
+### <div>🔭 Follow me on [Dribbble !](https://dribbble.com/Pavel_Filchi/shots) </div>  
 
 
 <br/>  
