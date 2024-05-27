@@ -2,7 +2,7 @@
 <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/09/coffee_in_rain_by_kirokaze-d98qb8z.gif?fit=1&resize=620%2C4000&ssl=1" align="center" style="width: 100%" />
 </div>  
 
-### <div> 🖐🏻I'm Pavel, a russian computer science student 💻 </div>  
+### <div> 🖐🏻I'm Pavel, a Computer Science student with a passion for design and front-end development. I excel at creating visually appealing and user-friendly interfaces. </div>  
  
 
 ### <div>🔭 Follow me on [CodePen !](https://codepen.io/pavel_filchi) </div>  
