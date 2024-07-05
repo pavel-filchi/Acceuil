@@ -7,7 +7,7 @@
  
 
 ### <div>🔭 Follow me on [Dribbble !](https://dribbble.com/Pavel_Filchi/shots) </div>  
-### <div>🔭 Donate to me on [Buy me a coffee !](https://buymeacoffee.com/pavel_filchi) </div>  
+### <div>🔭 Donate to me on [Buy me a coffee !](https://buymeacoffee.com/pavel_filchi), Thanks ! </div>  
 
 
 <br/>  
