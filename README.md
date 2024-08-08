@@ -8,7 +8,8 @@
 
 ### <div>🔭 Follow me on [Dribbble !](https://dribbble.com/Pavel_Filchi/shots) </div>  
 ### <div>🔭 Donate to me on [Buy me a coffee !](https://buymeacoffee.com/pavel_filchi) Thanks ! </div>  
-<script src="https://tryhackme.com/badge/2238238"></script>
+![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
+
 
 <br/>  
 
